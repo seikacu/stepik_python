@@ -1,0 +1,8 @@
+print(2 // 5)
+print(-123 // 10)
+print(10 % 5)
+print(10 % 6)
+print(10 % 12)
+print(10 % 20)
+print(10 % 30)
+print(100 % 1000)
